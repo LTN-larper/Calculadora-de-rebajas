@@ -1,6 +1,5 @@
 
-st.title(
-    "La Calculadora de Rebajas")
+st.title("La Calculadora de Rebajas")
 st.markdown("Introduce el precio y descuento del producto para calcular el precio final")
 
 # 2. Entrada de Datos (En la barra lateral)
