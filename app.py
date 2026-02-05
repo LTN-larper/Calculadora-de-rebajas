@@ -1,5 +1,5 @@
 # 1. Configuración y Título
-st.set_page_config(page_title="Rebajas", page_icon="🏥")
+st.set_page_config(page_title="Rebajas")
 st.title(
     "La Calculadora de Rebajas")
 st.markdown("Introduce el precio y descuento del producto para calcular el precio final")
